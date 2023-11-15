@@ -1,0 +1,27 @@
+{
+  "DHT": {
+    "time": {
+      "x": "Wednesday,-November-15-2023-21:23:23",
+      "x2": "Wednesday,-November-15-2023-21:23:28",
+      "x3": "Wednesday,-November-15-2023-21:23:33",
+      "-NjI8hAFzHlu5I4voYGX": "Wednesday,-November-15-2023-21:23:38",
+      "-NjI8iON8U36E3U_Lzqd": "Wednesday,-November-15-2023-21:23:43",
+      "-NjI8jbUvT_IZaxMotdI": "Wednesday,-November-15-2023-21:23:48",
+      "hum": {
+        "z": 70.01,
+        "z2": 174.81,
+        "z3": 174.81,
+        "z4": 174.81,
+        "-NjI8itUyDajzULuYA9F": 175.81
+      },
+      "temp": {
+        "y": 30.3,
+        "y2": 15.1,
+        "y3": 15.1,
+        "y4": 15.1,
+        "-NjI8ir1_di4W-2OIbTP": 15.1,
+        "-NjI8k4CEal8mWmgp4TB": 15.1
+      }
+    }
+  }
+}
